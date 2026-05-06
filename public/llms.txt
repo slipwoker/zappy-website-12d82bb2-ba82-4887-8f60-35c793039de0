@@ -1,0 +1,100 @@
+# FIX מטפחות — Generative Engine Optimization Map
+
+> A women's fashion brand specializing in tichels (head scarves/mitpachot), seeking inspiration from an existing brand (Daniella Sharvit) but with a more unique, creative, and visually interesting aesthetic. The brand appears to be in the modest fashion or Jewish women's accessories space, aiming to stand out with a more distinctive and engaging website design.
+
+---
+
+## Pages
+
+### בית
+https://fix-12d82bb2.zappy5.app
+FIX מטפחות מביאה לך את הקולקציה המרהיבה ביותר של מטפחות לנשים דתיות — עיצובים ייחודיים, צבעים עזים וסגנון שמדבר בעד עצמו. גלי עכשיו!
+
+### מדריך סטיילינג
+https://fix-12d82bb2.zappy5.app/styling-guide
+מדריך הסטיילינג המלא של FIX מטפחות: טכניקות כריכה, שילובי צבעים וטיפים מעשיים שיהפכו כל מטפחת ראש לנשים ליצירת אמנות אישית. התחילי ליצור!
+
+### אודות
+https://fix-12d82bb2.zappy5.app/about
+FIX מטפחות נולדה מתוך אהבה עמוקה לאופנה צנועה ויצירתית. גלי את החזון, הערכים והתשוקה שמניעים אותנו לעצב מטפחות לנשים דתיות שלא נראו כמותן.
+
+### צור קשר
+https://fix-12d82bb2.zappy5.app/contact
+יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד על מטפחות לנשים דתיות? צוות FIX מטפחות כאן בשבילך — נשמח לשמוע ממך ולעזור בכל עניין. כתבי לנו!
+
+### Products
+https://fix-12d82bb2.zappy5.app/products
+המוצרים שלנו - FIX מטפחות
+
+### Cart
+https://fix-12d82bb2.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://fix-12d82bb2.zappy5.app/checkout
+תשלום
+
+### Login
+https://fix-12d82bb2.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://fix-12d82bb2.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://fix-12d82bb2.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://fix-12d82bb2.zappy5.app/product/:slug
+פרטי המוצר - FIX מטפחות
+
+### Category
+https://fix-12d82bb2.zappy5.app/category/:slug
+מוצרים - FIX מטפחות
+
+## Legal & Policy
+
+### Privacy Policy
+https://fix-12d82bb2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fix-12d82bb2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fix-12d82bb2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FIX מטפחות
+A women's fashion brand specializing in tichels (head scarves/mitpachot), seeking inspiration from an existing brand (Daniella Sharvit) but with a more unique, creative, and visually interesting aesthetic. The brand appears to be in the modest fashion or Jewish women's accessories space, aiming to stand out with a more distinctive and engaging website design.
+
+## Target Audience
+- נשים דתיות
+- חובבות אופנה
+- מטפחות בסטייל
+
+## Industry
+אופנה / אקססוריז לנשים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://fix-12d82bb2.zappy5.app/sitemap.xml
+- Robots: https://fix-12d82bb2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://fix-12d82bb2.zappy5.app/llms-full.txt
+- Products (JSON): https://fix-12d82bb2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://fix-12d82bb2.zappy5.app/product-feed.xml
