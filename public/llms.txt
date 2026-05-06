@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://fix-12d82bb2.zappy5.app
+https://example.com
 FIX מטפחות מביאה לך את הקולקציה המרהיבה ביותר של מטפחות לנשים דתיות — עיצובים ייחודיים, צבעים עזים וסגנון שמדבר בעד עצמו. גלי עכשיו!
 
 ### מדריך סטיילינג
-https://fix-12d82bb2.zappy5.app/styling-guide
+https://example.com/styling-guide
 מדריך הסטיילינג המלא של FIX מטפחות: טכניקות כריכה, שילובי צבעים וטיפים מעשיים שיהפכו כל מטפחת ראש לנשים ליצירת אמנות אישית. התחילי ליצור!
 
 ### אודות
-https://fix-12d82bb2.zappy5.app/about
+https://example.com/about
 FIX מטפחות נולדה מתוך אהבה עמוקה לאופנה צנועה ויצירתית. גלי את החזון, הערכים והתשוקה שמניעים אותנו לעצב מטפחות לנשים דתיות שלא נראו כמותן.
 
 ### צור קשר
-https://fix-12d82bb2.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד על מטפחות לנשים דתיות? צוות FIX מטפחות כאן בשבילך — נשמח לשמוע ממך ולעזור בכל עניין. כתבי לנו!
 
 ### Products
-https://fix-12d82bb2.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - FIX מטפחות
 
 ### Cart
-https://fix-12d82bb2.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://fix-12d82bb2.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://fix-12d82bb2.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://fix-12d82bb2.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://fix-12d82bb2.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://fix-12d82bb2.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - FIX מטפחות
 
 ### Category
-https://fix-12d82bb2.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - FIX מטפחות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fix-12d82bb2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fix-12d82bb2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fix-12d82bb2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ A women's fashion brand specializing in tichels (head scarves/mitpachot), seekin
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fix-12d82bb2.zappy5.app/sitemap.xml
-- Robots: https://fix-12d82bb2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fix-12d82bb2.zappy5.app/llms-full.txt
-- Products (JSON): https://fix-12d82bb2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fix-12d82bb2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
